@@ -23,12 +23,14 @@ Estos 8 proyectos son:
 
 ## Barra de progreso
 
+https://github.com/Nicole-Palomino/proyectos-css/assets/83719595/0bab4e57-66ef-4561-9361-31361a9204c9
 
 ## Formulario de Login
 ![Imagen referecial](formulario_login/img/formulario_login.png)
 
 ## Menú de navegación vertical
 
+https://github.com/Nicole-Palomino/proyectos-css/assets/83719595/f5ba0049-d954-44fd-b932-4b854764c1dd
 
 ## Drag o drop
 ![Imagen referencial](subir_archivos/assets/img/upload_files.png)
