@@ -36,4 +36,7 @@ Estos 8 proyectos son:
 ## Tabla de precios
 ![Imagen referencial](tabla_de_precios/img/tabla_de_precios.png)
 
-## Tarjetas 3D
+## Tarjetas 3
+
+https://github.com/Nicole-Palomino/proyectos-css/assets/83719595/4d2d3e7c-dc90-4961-90e8-e09239b65460
+
