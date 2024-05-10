@@ -25,15 +25,15 @@ Estos 8 proyectos son:
 
 
 ## Formulario de Login
-
+![Imagen referecial](formulario_login/img/formulario_login.png)
 
 ## Menú de navegación vertical
 
 
 ## Drag o drop
-
+![Imagen referencial](subir_archivos/assets/img/upload_files.png)
 
 ## Tabla de precios
-
+![Imagen referencial](tabla_de_precios/img/tabla_de_precios.png)
 
 ## Tarjetas 3D
